@@ -39,3 +39,4 @@ saved_image_path = '/content/results_1.jpg'
 # 결과 이미지 표시
 display(Image(saved_image_path))
 ```
+![results_1](https://github.com/user-attachments/assets/d59236eb-df49-4f83-bb19-b9b2d8f307f5)
